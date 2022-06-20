@@ -1,0 +1,8 @@
+bool stop_flag
+bool change_flag
+string wav_name
+int16 circle_time
+int16 volume
+---
+int16 status
+string message
